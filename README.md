@@ -1,3 +1,50 @@
+# Weather App
+
+![Weather App Logo](link_to_your_logo_image) <!-- Replace with your logo image link if you have one -->
+
+## Description
+
+Weather App is a user-friendly web application that allows users to check the current weather conditions for any city around the world. Utilizing the Weather API, this application provides real-time weather data, including temperature, humidity, and air quality index (AQI).
+
+## Features
+
+- Search for current weather by city name.
+- Displays temperature, humidity, wind speed, and AQI.
+- Responsive design for mobile and desktop users.
+- Modern and visually pleasing user interface.
+
+## Technologies Used
+
+- React.js
+- CSS3
+- JavaScript (ES6+)
+- Fetch API for making requests
+- WeatherAPI for weather data
+- CORS for handling cross-origin requests
+- 
+Navigate to the project directory:
+
+bash
+Copy code
+cd weather-app
+Install the required dependencies:
+
+bash
+Copy code
+npm install
+Start the development server:
+
+bash
+Copy code
+npm start
+Open your browser and visit http://localhost:3000 to view the app.
+
+Usage
+Enter the name of the city you want to check the weather for in the search input field.
+Click the search button to retrieve the current weather data.
+View the displayed weather information.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
